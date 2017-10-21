@@ -1,0 +1,37 @@
+/*
+style.css for trainSchedule
+Homework Assignment 7
+October 21, 2017
+Doug Leckie
+*/
+#colorText {
+
+}
+
+.jumbotron{
+    background-color: #a0a0a0;
+    color: #e6e6e6;
+    font-family: 'Raleway', sans-serif;
+}
+
+.text-center {
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.panel {
+    font-family: 'Raleway', sans-serif;
+}
+
+.panel-heading {
+    background-color: #e6e6e6;
+    font-family: 'Raleway', sans-serif;
+}
+
+.panel-title {
+    font-family: 'Raleway', sans-serif;
+}
+
+.panel-body {
+    font-family: 'Raleway', sans-serif;
+}
